@@ -1,6 +1,6 @@
 # MoodWeatherMusic-Insights
 
-## ## Project Outline  
+## Project Outline  
 Analyzing how everyday weather affects emotions and musical tastes is the goal of this study. In order to find significant patterns and observations, I intend to combine meteorological data, personal mood records, and Spotify music data. Data collection, cleaning, analysis, and visualization are all phases that will be included in this project.
 
 
