@@ -12,6 +12,9 @@ The idea hit me during midterms when I was supposed to be studying but instead f
 
 As a student diving into data science, I thought this would be a fun way to finally understand why I sometimes spend hours on TikTok (and blame it on the weather 😉)
 
+## Project Website
+[TikTok Usage and Weather Relation Analysis](https://dsa210-tiktok-weather-analysis.my.canva.site/freelance-freelance-website-in-pink-white-blue-gradients-style#home)
+
 ## Data Sources
 
 ### TikTok Data
