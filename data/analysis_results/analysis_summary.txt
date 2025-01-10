@@ -1,0 +1,12 @@
+=== TikTok Weather Analysis Results ===
+
+Basic Statistics:
+total_days: 527
+total_activities: 28827.0
+avg_daily_activities: 54.700189753320686
+peak_activity_hour: 22
+weekend_vs_weekday: {'weekend_avg': np.float64(20.48507462686567), 'weekday_avg': np.float64(19.667621776504298)}
+
+Weather Correlations:
+temperature: correlation=0.058, p-value=0.026
+precipitation: correlation=-0.063, p-value=0.017
