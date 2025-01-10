@@ -90,7 +90,6 @@ All visualizations are saved in the `visualizations/` directory.
 
 ```
 dsa210-tiktok-weather-analysis/
-├── README.md                 # Project documentation
 ├── data/
 │   ├── processed/            # Cleaned datasets
 │   ├── tiktok_data/          # Raw TikTok export
@@ -103,8 +102,8 @@ dsa210-tiktok-weather-analysis/
 │   ├── merge_data.py         # Data combination
 │   └── visualize_data.py     # Visualization generation
 ├── visualizations/           # Generated plots
-├── README.md                 # Project documentation
 ├── DSA210_Selen.pdf          # Project report
+├── README.md                 # Project documentation
 └── requirements.txt          # Dependencies
 
 ```
