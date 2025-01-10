@@ -89,10 +89,10 @@ All visualizations are saved in the `visualizations/` directory.
 ## Project Structure
 
 ```
-tiktok-weather-analysis/
-├── README.md                   # Project documentation
+dsa210-tiktok-weather-analysis/
+├── README.md                 # Project documentation
 ├── data/
-│   ├── processed/             # Cleaned datasets
+│   ├── processed/            # Cleaned datasets
 │   ├── tiktok_data/          # Raw TikTok export
 │   ├── weather_data/         # Weather API data
 │   ├── merged_data/          # Combined datasets
@@ -103,6 +103,7 @@ tiktok-weather-analysis/
 │   ├── merge_data.py         # Data combination
 │   └── visualize_data.py     # Visualization generation
 ├── visualizations/           # Generated plots
+├── README.md                 # Project documentation
 ├── DSA210_Selen.pdf          # Project report
 └── requirements.txt          # Dependencies
 
